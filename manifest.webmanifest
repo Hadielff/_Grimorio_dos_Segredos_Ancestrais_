@@ -1,0 +1,12 @@
+{
+  "name": "Grimório dos Segredos Ancestrais",
+  "short_name": "Grimório",
+  "description": "Biblioteca digital de história, folclore, ciência e fantasia sombria.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#2b1a12",
+  "theme_color": "#2b1a12",
+  "icons": [{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
